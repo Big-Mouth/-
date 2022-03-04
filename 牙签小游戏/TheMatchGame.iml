@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/jar+原工程/TheMatchGame/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/jar+原工程/TheMatchGame">
+      <sourceFolder url="file://$MODULE_DIR$/jar+原工程/TheMatchGame/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="JavaSE-12" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
